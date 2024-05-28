@@ -43,6 +43,7 @@ nav {
   gap: 2rem;
   list-style: none;
   font-size: 1.5rem;
+  display: flex;
 }
 
 a {
@@ -60,6 +61,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  border-bottom: 1px solid black; /* Esta é a linha fina e preta abaixo do menu */
 }
 
 .logo:hover {
